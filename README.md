@@ -22,6 +22,6 @@ Estudo Análise e Desenvolvimento de Sistemas desde janeiro, mas foi em julho de
 
 Cada dia é uma nova oportunidade de aprender e evoluir, e estou determinado a me tornar um desenvolvedor Front-End ainda melhor. Acredito que essa jornada será desafiadora, mas também gratificante, pois sei que cada pequena conquista será fruto do meu esforço e dedicação. Estou animado com as possibilidades que o futuro me reserva e estou comprometido em alcançar meus objetivos.
                             
-## 🛠 Minhas habilidades
+## 🎛️ Tecnologias que utulizo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" />
