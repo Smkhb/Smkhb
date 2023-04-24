@@ -17,8 +17,6 @@
 
 ## 🚀 Sobre mim
 
-<img align="right" alt="GIF" src="https://github.com/Smkhb/Smkhb/blob/main/sensational.gif?raw=true" width="400" />
-
 Sou um desenvolvedor apaixonado pelo meu trabalho. Desde que comecei a estudar programação, tenho me dedicado cada vez mais para adquirir mais experiência e conhecimento. Minha busca incessante por aprender e me desenvolver como profissional é o que me motiva a seguir em frente.
 
 Estudo Análise e Desenvolvimento de Sistemas desde janeiro, mas foi em julho de 2022 que decidi focar em programação Front-End. Atualmente, meus estudos estão concentrados em HTML, CSS, JavaScript, React.js e Node.js. Já realizei vários cursos de programação e projetos, que me ajudaram a aprimorar minhas habilidades e colocar em prática tudo o que aprendi.
